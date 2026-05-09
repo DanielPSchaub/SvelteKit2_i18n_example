@@ -26,3 +26,11 @@ Ex.
 #### Relative links:
 When you're on a page and you want to redirect to an subpage, like going from login to login->confirm, since the page you're going too isn't something you have to traverse backwards for, to see you can use a relative link. A relative link means you keep the <a>, and you make sure the href starts with a letter **and not a /** mark. 
 Ex. `href="confirm"` is correct. `href="/confirm"` is not a relative link and will send you back to the main directory *without* the lang param active, which is a no-no.
+
+
+## How to run:
+
+It's VERY lightweight: 
+
+1. npm install
+2. npm run dev
