@@ -1,0 +1,5 @@
+{
+    "header":"LangLink",
+    "description":"Usually we use <a> tags to navigate around pages, but because we have to preserve our lang state we use <LangLink> - which is just a fancy wrapper for <a> tags and works the exact same as an <a> tag, except with lang preservation. See?:",
+    "linkHome":"Home"
+}

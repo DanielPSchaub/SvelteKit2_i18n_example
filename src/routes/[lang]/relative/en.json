@@ -1,0 +1,5 @@
+{
+    "header":"Relative Links",
+    "description":"Most page navigation will use a <LangLink> absolute path, but sometimes we have relatives paths - like for a child page. We can just use a normal <a> tag with a *relative* link for that:",
+    "linkChild":"Child"
+}

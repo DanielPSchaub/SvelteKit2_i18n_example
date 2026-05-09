@@ -1,0 +1,10 @@
+{
+    "brand":"SvelteKit i18n",
+    "nav":{
+        "Home":"Home",
+        "LangLink":"LangLink",
+        "relative":"relative",
+        "login":"login"
+    },
+    "footer":"{year} - GitHub: DanielPSchaub"
+}

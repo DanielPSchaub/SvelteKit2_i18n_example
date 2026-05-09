@@ -1,0 +1,20 @@
+{
+    "pageTitle_login":"Connexion",
+    "pageDesc_login":"I don't know french... Just an example of a login page with mode-switching. You use the normal <a> here and not <LangLink> because there's no page navigation",
+    "pageTitle_signup":"Inscription",
+    "pageDesc_signup":"Inscription... in french",
+    "pageTitle_reset":"Reset",
+    "pageDesc_reset":"Saisissez votre adresse e-mail et nous nous occupons du reste.",
+    "label_firstName":"Prénom:",
+    "placeholder_firstName":"Barry",
+    "label_lastName":"Nom:",
+    "placeholder_lastName":"Allen",
+    "label_email":"E-mail",
+    "placeholder_email":"charles.xavier@gmail.com",
+    "label_password":"Mot de passe:",
+    "link_login":"Se connecter",
+    "link_signup":"S'inscrire",
+    "link_reset":"Mot de passe oublié?",
+    "loading":"Chargement...",
+    "success":"Succès!"
+}

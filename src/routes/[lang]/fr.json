@@ -1,0 +1,18 @@
+{
+    "pageTitle":"SvelteKit2 i18n example ... in french!",
+    "pageSubTitle":"A way to support multiple languages (I also don't know how to translate all this into French so bear with me and my 'fr version' tags)",
+    "LangLink":"(fr version) LangLink",
+    "LangLinkExplanation":"(fr version) LangLink is the replacement for most of your page-traveling <a> tags. Works just like a normal a tag, keeps all the attributes, just a slight name change for some redirect logic to preserve the language.",
+    "relativeLink":"(fr version) RelativeLink",
+    "relativeLinkExplanation":"(fr version) In some cases, you have a link to a child page. In this instance, you don't need a full absolute link like with LangLink, and can just use a normal relative link. DON'T prepend it with '/'",
+    "textVariables":"(fr version) Text Variables",
+    "textVariablesExplanation":"(fr version) You can replace words in your strings like this : {variableWord}",
+    "nestedText":{
+        "header":"(fr version) Nested Text",
+        "explanation":"(fr version) You can format and pull data from the language file like any normal .json"
+    },
+    "changeLang":"(fr version) How to change languages:",
+    "changeLangExplanation":"(fr version) Clicking links like these basic ones will switch the lang and redirect to homepage.",
+    "addLang":"(fr version) How to add additional languages",
+    "addLangExplanation":"(fr version) To add more languages, add the lang code to src/lib/i18n/loadTranslations.js, and then add the language to the pages with that new code, like 'es.json'. Make sure the json headers match between all files."
+}

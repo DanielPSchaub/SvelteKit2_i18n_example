@@ -1,0 +1,20 @@
+{
+    "pageTitle_login":"Login",
+    "pageDesc_login":"Just an example of a login page with mode-switching. You use the normal <a> here and not <LangLink> because there's no page navigation. Also the 'login' button uses a server-side redirect with the language attached.",
+    "pageTitle_signup":"Signup",
+    "pageDesc_signup":"Signup description",
+    "pageTitle_reset":"Reset",
+    "pageDesc_reset":"No worries! Just put in your email and we'll handle the rest",
+    "label_firstName":"First Name:",
+    "placeholder_firstName":"Barry",
+    "label_lastName":"Last Name:",
+    "placeholder_lastName":"Allen",
+    "label_email":"Email",
+    "placeholder_email":"charles.xavier@gmail.com",
+    "label_password":"Password:",
+    "link_login":"Login",
+    "link_signup":"Sign up",
+    "link_reset":"Forgot your password?",
+    "loading":"Loading...",
+    "success":"Success!"
+}

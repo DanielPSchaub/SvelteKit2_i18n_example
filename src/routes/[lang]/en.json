@@ -1,0 +1,18 @@
+{
+    "pageTitle":"SvelteKit2 i18n example",
+    "pageSubTitle":"A way to support multiple languages",
+    "LangLink":"LangLink",
+    "LangLinkExplanation":"LangLink is the replacement for most of your page-traveling <a> tags. Works just like a normal a tag, keeps all the attributes, just a slight name change for some redirect logic to preserve the language.",
+    "relativeLink":"RelativeLink",
+    "relativeLinkExplanation":"In some cases, you have a link to a child page. In this instance, you don't need a full absolute link like with LangLink, and can just use a normal relative link. DON'T prepend it with '/'",
+    "textVariables":"Text Variables",
+    "textVariablesExplanation":"You can replace words in your strings like this : {variableWord}",
+    "nestedText":{
+        "header":"Nested Text",
+        "explanation":"You can format and pull data from the language file like any normal .json"
+    },
+    "changeLang":"How to change languages:",
+    "changeLangExplanation":"Clicking links like these basic ones will switch the lang and redirect to homepage.",
+    "addLang":"How to add additional languages",
+    "addLangExplanation":"To add more languages, add the lang code to src/lib/i18n/loadTranslations.js, and then add the language to the pages with that new code, like 'es.json'. Make sure the json headers match between all files."
+}
